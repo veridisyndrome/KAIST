@@ -1,4 +1,4 @@
-# PIM-based AI accelerator and software stack for efficient LLM inference
+# (In review) PIM-based AI accelerator and software stack for efficient LLM inference
 ## @KAIST (한국과학기술원) | Concurrency & Parallelism Lab
 
 ##### Focused on the early stages of research in PIM-based technology for optimizing large-scale model inference, particularly for LLMs. Conducted comprehensive paper reviews, comparative analyses of architectures, reproduced experimental results, and developed new research proposals to address identified gaps.
